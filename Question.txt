@@ -1,0 +1,14 @@
+1. Responsive Navbar
+
+Objective: Develop a responsive navigation bar that adjusts layout based on screen size.
+
+Requirements:
+● Include a logo on the left and navigation links on the right (e.g., Home, About, Services, Contact).
+● On smaller screens, hide the links and display a hamburger menu.
+● Clicking the hamburger menu should toggle the visibility of the navigation links.
+● The navbar should remain fixed at the top during scroll.
+
+Technical Focus:
+● Use CSS media queries for responsiveness.
+● Use JavaScript to toggle visibility classes.
+● Apply position: fixed for sticky behavior
